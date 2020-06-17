@@ -10,7 +10,8 @@ Good docker-compose exercise
 
 ## Technical details
 
-This is initially edited using Visual Studio Code
+This is initially edited using Visual Studio Code, running on local Debian (osboxes) VM.
+This is only configured for local dev environment. Not set up to be pushed to cloud.
 
 ## Process
 
